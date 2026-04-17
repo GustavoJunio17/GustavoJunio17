@@ -14,12 +14,12 @@
 ---
 
 ## 🚀 Featured Projects
-🔹 [RAG Microservice (Semantic Search)]  (https://github.com/GustavoJunio17/rag)
-🔹 [Start Project] (https://github.com/GustavoJunio17/start_project)
-🔹 [Visit Note] (https://github.com/GustavoJunio17/visit_note)
-🔹 [Control Leads] (https://github.com/GustavoJunio17/control-leads)
+🔹 RAG Microservice (Semantic Search) 
+🔹 Start Project 
+🔹 Visit Note
+🔹 Control Leads 
 ---
 
 ## 📫 Contact
-- [LinkedIn:] (https://www.linkedin.com/in/gustavo-junio-ferreira-rodrigues-1448821a0/?locale=en-US)
-- [Email:] (gustavo.junio2003@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/gustavo-junio-ferreira-rodrigues-1448821a0/?locale=en-US
+- Email: gustavo.junio2003@gmail.com
