@@ -1,23 +1,17 @@
 # 👋 Hi, I'm Gustavo Junio
 
-🚀 Backend Developer | AI & Data Enthusiast  
-💡 Building scalable systems and intelligent applications  
+🚀 Fullstack Developer | DevOps | AI & Data
+💡 Building intelligent applications
 
 ---
 
-## 🧠 About Me
-- 🎓 Information Systems student at UEMG  
-- 💻 Focused on Backend Development + AI  
-- ⚙️ Working with Python, .NET, FastAPI, SQL  
-- ☁️ Learning Cloud (AWS) and scalable architectures  
+🧠 About Me
+🎓 Information Systems student at UEMG
+💻 Fullstack Development — Python, .NET, Next.js
+⚙️ Backend: FastAPI (Python), .NET, PostgreSQL
+☁️ Cloud & DevOps: AWS, OCI
+🤖 AI & Data
 
----
-
-## 🚀 Featured Projects
-🔹 RAG Microservice (Semantic Search) 
-🔹 Start Project 
-🔹 Visit Note
-🔹 Control Leads 
 ---
 
 ## 📫 Contact
