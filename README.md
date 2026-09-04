@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Gustavo Junio
 
-🚀 Fullstack Developer | DevOps | AI & Data
-💡 Building intelligent applications
+- 🚀 Fullstack Developer | DevOps | AI & Data
+- 💡 Building intelligent applications
 
 ---
 
-🧠 About Me
-🎓 Information Systems student at UEMG
-💻 Fullstack Development — Python, .NET, Next.js
-⚙️ Backend: FastAPI (Python), .NET, PostgreSQL
-☁️ Cloud & DevOps: AWS, OCI
-🤖 AI & Data
+- 🧠 About Me
+- 🎓 Information Systems student at UEMG
+- 💻 Fullstack Development — Python, .NET, Next.js
+- ⚙️ Backend: FastAPI (Python), .NET, PostgreSQL
+- ☁️ Cloud & DevOps: AWS, OCI
+- 🤖 AI & Data
 
 ---
 
